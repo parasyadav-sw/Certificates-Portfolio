@@ -4,8 +4,8 @@ This repository contains my technical certifications, workshops, and leadership 
 
 ## Certifications
 
-Python Essentials 1 — Cisco Networking Academy & Python Institute
-Introduction to Data Science — Cisco Networking Academy
+- Python Essentials 1 — Cisco Networking Academy & Python Institute
+- Introduction to Data Science — Cisco Networking Academy
 AI for All — Intel Technology India
 Introduction to Generative AI Studio — Google Cloud
 Power BI Workshop (AI-Powered Dashboards) — OfficeMaster
